@@ -1,4 +1,4 @@
-*{
+  *{
     margin: 0;
     padding: 0;
     color:rgb(26, 23, 23);
@@ -1272,11 +1272,11 @@ text-transform: uppercase;
  }
 }
 
-/MOBILE (max-width: 600px)/
-/MOBILE (max-width: 600px)/
-/MOBILE (max-width: 600px)/
-/MOBILE (max-width: 600px)/
-/MOBILE (max-width: 600px)/
+/*MOBILE (max-width: 600px)*/
+/*MOBILE (max-width: 600px)*/
+/*MOBILE (max-width: 600px)*/
+/*MOBILE (max-width: 600px)*/
+/*MOBILE (max-width: 600px)*/
  
 @media (max-width: 615px) {
 
@@ -2191,38 +2191,38 @@ h2{
 @media (min-width: 435px){
 
     .btn2{
-        margin-left: 90px;
+        margin-left: 125px;
     }
 }
 /* btn2 allignment */
 @media (min-width: 550px){
 
     .btn2{
-        margin-left: 210px;
+        margin-left: 180px;
     }
 }
 @media (min-width: 612px){
 
     .btn2{
-        margin-left: 215px;
+        margin-left: 190px;
     }
 }
 @media (min-width: 670px){
 
     .btn2{
-        margin-left: 245px;
+        margin-left: 215px;
     }
 }
 @media (min-width: 700px){
 
     .btn2{
-        margin-left: 265px;
+        margin-left: 235px;
     }
 }
 @media (min-width: 750px){
 
     .btn2{
-        margin-left: 290px;
+        margin-left: 260px;
     }
 }
 @media (min-width: 780px){
@@ -2234,37 +2234,37 @@ h2{
 @media (min-width: 880px){
 
     .btn2{
-        margin-left: 370px;
+        margin-left: 320px;
     }
 }
 @media (min-width: 930px){
 
     .btn2{
-        margin-left: 390px;
+        margin-left: 370px;
     }
 }
 @media (min-width: 992px){
 
     .btn2{
-        margin-left: 330px;
+        margin-left: 230px;
     }
 }
 @media (min-width: 1020px){
 
     .btn2{
-        margin-left: 330px;
+        margin-left: 270px;
     }
 }
 @media (min-width: 1070px){
 
     .btn2{
-        margin-left: 380px;
+        margin-left: 300px;
     }
 }
 @media (min-width: 1150px){
 
     .btn2{
-        margin-left: 430px;
+        margin-left: 350px;
     }
 }
 @media (min-width: 1250px){
@@ -2291,3 +2291,4 @@ h2{
         margin-left: 280px;
     }
 }
+ 
